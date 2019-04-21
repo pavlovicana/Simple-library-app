@@ -1,0 +1,26 @@
+c:\users\win 7\documents\visual studio 2013\Projects\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+c:\users\win 7\documents\visual studio 2013\Projects\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe
+c:\users\win 7\documents\visual studio 2013\Projects\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.pdb
+c:\users\win 7\documents\visual studio 2013\Projects\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.csprojResolveAssemblyReference.cache
+c:\users\win 7\documents\visual studio 2013\Projects\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+c:\users\win 7\documents\visual studio 2013\Projects\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
+C:\Users\Tamara\Desktop\Anin_zadatak\ConsoleApplication13_gotov\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+C:\Users\Tamara\Desktop\Anin_zadatak\ConsoleApplication13_gotov\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe
+C:\Users\Tamara\Desktop\Anin_zadatak\ConsoleApplication13_gotov\ConsoleApplication13\bin\Debug\ConsoleApplication13.pdb
+C:\Users\Tamara\Desktop\Anin_zadatak\ConsoleApplication13_gotov\ConsoleApplication13\obj\Debug\ConsoleApplication13.csprojResolveAssemblyReference.cache
+C:\Users\Tamara\Desktop\Anin_zadatak\ConsoleApplication13_gotov\ConsoleApplication13\obj\Debug\ConsoleApplication13.csproj.CoreCompileInputs.cache
+C:\Users\Tamara\Desktop\Anin_zadatak\ConsoleApplication13_gotov\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+C:\Users\Tamara\Desktop\Anin_zadatak\ConsoleApplication13_gotov\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
+C:\Users\Win 7\Desktop\ConsoleApplication13_gotov\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+C:\Users\Win 7\Desktop\ConsoleApplication13_gotov\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+C:\Users\Win 7\Desktop\ConsoleApplication13_gotov\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
+C:\Users\Win 7\Desktop\ConsoleApplication13_gotov\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe
+C:\Users\Win 7\Desktop\ConsoleApplication13_gotov\ConsoleApplication13\bin\Debug\ConsoleApplication13.pdb
+C:\Users\Win 7\Desktop\ConsoleApplication13_gotov\ConsoleApplication13\obj\Debug\ConsoleApplication13.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Zadaci .NET\ConsoleApplication13_gotov\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+C:\Users\ASUS\Desktop\Zadaci .NET\ConsoleApplication13_gotov\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe
+C:\Users\ASUS\Desktop\Zadaci .NET\ConsoleApplication13_gotov\ConsoleApplication13\bin\Debug\ConsoleApplication13.pdb
+C:\Users\ASUS\Desktop\Zadaci .NET\ConsoleApplication13_gotov\ConsoleApplication13\obj\Debug\ConsoleApplication13.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Zadaci .NET\ConsoleApplication13_gotov\ConsoleApplication13\obj\Debug\ConsoleApplication13.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Zadaci .NET\ConsoleApplication13_gotov\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+C:\Users\ASUS\Desktop\Zadaci .NET\ConsoleApplication13_gotov\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
